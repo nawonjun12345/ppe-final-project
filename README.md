@@ -85,7 +85,8 @@ files.download('runs/detect/train/results.png')
 
 | 파일명 | 설명 |
 |--------|------|
-| `PPE_Detection.ipynb` | 전체 코드 노트북 |
+| `PPE_Detection_Result.ipynb` | 실행 후 전체 코드 노트북 |
+| `PPE_Detection_Template.ipynb` | 실행 전 전체 코드 노트북 |
 | `best.pt` | 학습된 YOLOv8n 모델 가중치 |
 | `results.png` | 학습 성능 그래프 |
 | `data.yaml` | 학습 클래스 설정 정보 |
