@@ -10,7 +10,7 @@ YOLOv8 객체 탐지 모델을 활용하여, 헬멧, 조끼, 안전화 등의 �
 
 ## 📂 데이터셋 정보
 
-- 출처: [Roboflow Universe - PPE Detection v2i](https://universe.roboflow.com/)
+- 출처: [Roboflow Universe - PPE Detection v2i](https://universe.roboflow.com/siabar/ppe-dataset-for-workplace-safety)
 - 클래스: Helmet, Vest, Boots, Gloves, Mask, Person, NO-Helmet, NO-Vest
 - 구성: `train/`, `valid/`, `test/` 이미지와 YOLO 형식 라벨(.txt)
 - ⚠ Gloves와 Mask 클래스는 학습에 충분하지 않아 실제 학습에선 제외됨
